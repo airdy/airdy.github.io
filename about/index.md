@@ -7,7 +7,7 @@ comments: false
 <center>Hi, my name is <b>Ruslan Pylypchuk</b> and I'm a software engineer.</center>
 
 ## A little info
-##### Currently studying at Lviv's Polytecnic National University in institute of Computer Science and Information technologies. Also making this world better by helping people bring their business ideas to life by developing scalable web apps.
+Currently studying at Lviv's Polytecnic National University in institute of Computer Science and Information technologies. Also making this world better by helping people bring their business ideas to life by developing scalable web apps.
 
 ## As for personal qualities
 * Communicative person
