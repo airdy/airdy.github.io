@@ -6,7 +6,7 @@ reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://airdy.github.io/
 
@@ -40,9 +40,9 @@ disqus_shortname:   taylantatli
 email:              jalbot17@gmail.com
 #twitter:            username
 #facebook:           username
-github-url:         https://github.com/airdy
+github-url:         airdy
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           https://linkedin.com/in/ruspylypchuk/
+linkedin:           ruspylypchuk
 #xing:              username
 #instagram:          username
 #lastfm:            username
